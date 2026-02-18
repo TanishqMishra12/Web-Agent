@@ -1,17 +1,5 @@
-Based on your previous work with **Firecrawl** and **LangGraph**, I've designed a professional README for your **Web-Agent** repository.
+#  AI Web Agent
 
-Since I couldn't directly access the file list, I have assumed a standard structure for a LangGraph project (e.g., `graph.py`, `.env`, `requirements.txt`). You can easily adjust the filenames if your entry point is different (e.g., `main.py` vs `agent.py`).
-
-Here is the markdown code:
-
-```markdown
-# 🕸️ AI Web Agent
-
-![Python](https://img.shields.io/badge/Python-3.10%2B-blue?logo=python&logoColor=white)
-![LangGraph](https://img.shields.io/badge/Orchestration-LangGraph-FF4B4B?logo=langchain&logoColor=white)
-![Firecrawl](https://img.shields.io/badge/Scraper-Firecrawl-FF6600?logo=firecrawl&logoColor=white)
-![OpenAI](https://img.shields.io/badge/LLM-OpenAI-412991?logo=openai&logoColor=white)
-![LangChain](https://img.shields.io/badge/Framework-LangChain-000000?logo=langchain&logoColor=white)
 
 An advanced **AI Web Scraper & Agent** capable of navigating websites, extracting structured data, and performing autonomous research. This project leverages **Firecrawl** for high-fidelity scraping and **LangGraph** to orchestrate intelligent workflows, allowing the agent to "think" as it browses.
 
@@ -122,3 +110,4 @@ Web-Agent/
 ## 🤝 Contributing
 
 Contributions are welcome! Please feel free to submit a Pull Request 
+
