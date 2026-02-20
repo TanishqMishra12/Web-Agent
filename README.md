@@ -5,17 +5,17 @@ An advanced **AI Web Scraper & Agent** capable of navigating websites, extractin
 
 ---
 
-## 🚀 Key Features
+##  Key Features
 
-- **🕷️ Intelligent Crawling**: Uses **Firecrawl** to turn any website into LLM-ready markdown, handling dynamic content and infinite scrolls.
-- **🧠 State-Based Orchestration**: Built with **LangGraph** to manage the agent's state, memory, and decision-making loops.
-- **🔍 Deep Research**: Can autonomously navigate through links to gather comprehensive information on a given topic.
-- **📝 Structured Extraction**: Converts unstructured web data into clean, structured formats (JSON/Markdown) for downstream analysis.
-- **🛡️ Robust Error Handling**: Includes retry logic and validation to ensure reliable data collection.
+- ** Intelligent Crawling**: Uses **Firecrawl** to turn any website into LLM-ready markdown, handling dynamic content and infinite scrolls.
+- ** State-Based Orchestration**: Built with **LangGraph** to manage the agent's state, memory, and decision-making loops.
+- ** Deep Research**: Can autonomously navigate through links to gather comprehensive information on a given topic.
+- ** Structured Extraction**: Converts unstructured web data into clean, structured formats (JSON/Markdown) for downstream analysis.
+- ** Robust Error Handling**: Includes retry logic and validation to ensure reliable data collection.
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 | Component | Technology | Description |
 | :--- | :--- | :--- |
@@ -27,7 +27,7 @@ An advanced **AI Web Scraper & Agent** capable of navigating websites, extractin
 
 ---
 
-## 🏁 Getting Started
+##  Getting Started
 
 Follow these steps to set up the Web Agent locally.
 
@@ -71,7 +71,7 @@ FIRECRAWL_API_KEY=fc-...
 
 ---
 
-## 🏃‍♂️ Usage
+##  Usage
 
 To run the agent, simply execute the main script:
 
@@ -92,7 +92,7 @@ python main.py
 
 ---
 
-## 📂 Project Structure
+##  Project Structure
 
 ```text
 Web-Agent/
@@ -103,11 +103,9 @@ Web-Agent/
 ├── requirements.txt    # Python dependencies
 └── README.md           # Project documentation
 
-```
-
----
 
 ## 🤝 Contributing
 
 Contributions are welcome! Please feel free to submit a Pull Request 
+
 
